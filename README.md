@@ -1,1 +1,4 @@
-# SDL_Project_22_23
+# Yasuo len dao dien
+
+## Introduction: <br />
+A game by Raiju: <br />
